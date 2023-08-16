@@ -1,0 +1,25 @@
+{
+    "name": "jathamj/log-notify-laravel",
+    "description": "support laravel monolog warning notify while logging.",
+    "type": "dev",
+    "require": {
+        "php": ">=7.0",
+        "laravel/framework": ">=6.0",
+        "jathamj/log-notify": "^1.0"
+    },
+    "replace": {
+        "laravel/framework": "self.version"
+    },
+    "license": "Apache-2.0",
+    "autoload": {
+        "psr-4": {
+            "Jathamj\\LogNotifyLaravel\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "JathamJ",
+            "email": "mlqyb@foxmail.com"
+        }
+    ]
+}
