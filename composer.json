@@ -7,9 +7,6 @@
         "laravel/framework": ">=6.0",
         "jathamj/log-notify": "^1.0"
     },
-    "replace": {
-        "laravel/framework": "self.version"
-    },
     "license": "Apache-2.0",
     "autoload": {
         "psr-4": {
