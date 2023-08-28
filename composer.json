@@ -4,8 +4,8 @@
     "type": "dev",
     "require": {
         "php": ">=7.0.0",
-        "laravel/framework": ">=6.0",
-        "jathamj/log-notify": "^1.0.3"
+        "laravel/framework": ">=5.6",
+        "jathamj/log-notify": "^1.1.0"
     },
     "license": "Apache-2.0",
     "autoload": {
